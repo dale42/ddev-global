@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Update WordPress core using wp-cli and commit to repo
+# Update WordPress plugins using wp-cli and commit to repo
 # with a nice commit message.
 #
 ## Description: Update WordPress core using wp-cli and commit to repo inside the web container

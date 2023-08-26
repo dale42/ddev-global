@@ -1,6 +1,6 @@
 #!/bin/bash
 
-## Description: Run WordPress updates via CLI inside the web container
+## Description: Run WordPress core update via CLI inside the web container
 ## Usage: wp-update-commit-core
 ## Example: "ddev wp-update-commit-core"
 ## ProjectTypes: wordpress
